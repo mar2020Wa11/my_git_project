@@ -1,0 +1,19 @@
+          git config --global user.name "Shaumik"
+ git config --global user.email "sdaityari@gmail.com"
+
+         mkdir my_git_projectNew
+         cd my_git_projectNew
+
+         git init
+         git status
+         git add .
+
+         git status--> check the status of the repository
+          status of_repositary
+
+today
+
+git commit -m "first commit"
+
+
+
